@@ -1,6 +1,6 @@
 # air_sensor
 
-Source Code is not clean but working.
+
 
 NodeMCU v3,
 DHT22,
